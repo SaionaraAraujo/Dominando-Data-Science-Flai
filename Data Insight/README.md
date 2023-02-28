@@ -1,4 +1,4 @@
-# Módilo Data Insght - Como extrair informações valiosas a partir dos dados
+# Módulo Data Insght - Como extrair informações valiosas a partir dos dados
 
 Aqui estão os arquivos de uma análise de um ecomercce, dados disponibilizadops publicamente, onde foi desenvolvido um dashboard utilizano o **powerbi**, trazendo
 concluões importantes sobre 3 áreas fundamentais do negócio.

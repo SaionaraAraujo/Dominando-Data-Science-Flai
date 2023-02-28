@@ -25,6 +25,9 @@ Foram analisadas:
 
 O conjunto de dados utilizado permite muitas análises, de diferentes tipos e objetivos. 
 
+🔗 Link para o projeto final do módulo:
+https://app.powerbi.com/view?r=eyJrIjoiMDdkNjFiYjktNDg1OC00NGFlLTkyOTUtNDgwZTFkZjdmMTQxIiwidCI6ImQyYjYwNjkyLTcxZTQtNGI0Yy05ZmIzLTQ3NmUzYTBlMzZiOCJ9&pageName=ReportSection
+
 As ferramentas utilizadas foram:
 
 ✅ Figma

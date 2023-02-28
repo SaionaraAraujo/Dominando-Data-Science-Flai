@@ -26,6 +26,7 @@ Foram analisadas:
 O conjunto de dados utilizado permite muitas análises, de diferentes tipos e objetivos. 
 
 As ferramentas utilizadas foram:
+
 ✅ Figma
 
 ✅ PowerBI

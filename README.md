@@ -5,7 +5,7 @@
 Aqui você pode encontrar códigos e dashboards desenvolvidos durante o curso Dominando Data Science na Flai.
 
 Os projetos abrangem diversas áreas de Data Science, incluindo análise exploratória de dados, visualização de dados, além de projetos com modelos de 
-Cinência de Dados.
+Ciência de Dados.
 
 Os projetos são desenvolvidos com o uso de ferramentas de visualização de dados ou em forma de notebook, geralmente desenvolvidos no Google Colab, um ambiente interativo que permite a execução de códigos Python e a visualização de gráficos é resultados em tempo real.
 

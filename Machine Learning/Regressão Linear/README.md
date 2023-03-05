@@ -39,11 +39,11 @@ correlações entre variáveis.
 # Ajuste dos dados
 Para que os dados possam ser usados em uma regressão linear, é importante que eles atendam a certos requisitos:
 
-    As variáveis devem ser numéricas: todas as variáveis utilizadas no modelo, precisam ser do tipo numérica,
-    Linearidade: os dados devem estar relacionados linearmente. Isso pode ser verificado plotando um gráfico de dispersão entre as variáveis para ver se há uma tendência linear - este gráfico já foi construido na fase de análise exploratória.
-    Normalidade: Os dados devem seguir uma distribuição normal para garantir a precisão dos resultados da regressão linear. A normalidade pode ser verificada plotando um histograma dos dados, que também já foi gerado na sessão anterior.
-    Homocedasticidade: Os dados devem ter uma variância constante em toda a faixa de valores das variáveis independentes, ou seja, precisam estar em escalas parecidas.
-    Independência: As observações dos dados devem ser independentes entre si. Ou seja, uma observação não deve ser afetada pela observação anterior ou posterior.
+ * As variáveis devem ser numéricas: todas as variáveis utilizadas no modelo, precisam ser do tipo numérica,
+ * Linearidade: os dados devem estar relacionados linearmente. Isso pode ser verificado plotando um gráfico de dispersão entre as variáveis para ver se há uma tendência linear - este gráfico já foi construido na fase de análise exploratória.
+ * Normalidade: Os dados devem seguir uma distribuição normal para garantir a precisão dos resultados da regressão linear. A normalidade pode ser verificada plotando um histograma dos dados, que também já foi gerado na sessão anterior.
+ * Homocedasticidade: Os dados devem ter uma variância constante em toda a faixa de valores das variáveis independentes, ou seja, precisam estar em escalas parecidas.
+ * Independência: As observações dos dados devem ser independentes entre si. Ou seja, uma observação não deve ser afetada pela observação anterior ou posterior.
 
 Se os dados atenderem a esses requisitos, é possível usá-los em uma regressão linear. É importante lembrar que a regressão linear é uma técnica estatística poderosa, mas é essencial que os dados sejam cuidadosamente analisados e preparados antes de serem usados para evitar resultados imprecisos ou enganosos.
 
